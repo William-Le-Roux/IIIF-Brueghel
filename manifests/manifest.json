@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "4 tableaux de Pieter Brueghel l'Ancien : le Combat de Carnaval et Carême, Proverbes flamands, les Jeux d'enfants et le Triomphe de la mort.",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "4 tableaux de Pieter Brueghel l'Ancien : le Combat de Carnaval et Carême, Proverbes flamands, les Jeux d'enfants et le Triomphe de la mort.",
+    "@language" : "Français"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://7a12f148-d24d-41cf-9573-c60d44f8c245",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://90006025-57ea-498b-b946-98f0dbba231c",
+      "@type" : "sc:Canvas",
+      "label" : "Le Combat de Carnaval et Carême",
+      "height" : 1827,
+      "width" : 2560,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2dec26c1-2169-4d91-939f-d62a427c91c7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1827,
+          "width" : 2560
+        },
+        "on" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://81265ff2-21a5-4944-8811-e34e8791b90f",
+      "@type" : "sc:Canvas",
+      "label" : "Proverbes flamands",
+      "height" : 1132,
+      "width" : 1599,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://beebf9e7-d21a-424f-9f3a-2ddaafb74093",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/images/Pieter_Brueghel_the_Elder_The_Dutch_Proverbs/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/images/Pieter_Brueghel_the_Elder_The_Dutch_Proverbs",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1132,
+          "width" : 1599
+        },
+        "on" : "http://81265ff2-21a5-4944-8811-e34e8791b90f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a",
+      "@type" : "sc:Canvas",
+      "label" : "Les Jeux d'enfants",
+      "height" : 4770,
+      "width" : 6567,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://827325aa-a29a-4457-9578-b04a0a615ba4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/images/Pieter_Bruegel_the_Elder_Childrens_Games/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/images/Pieter_Bruegel_the_Elder_Childrens_Games",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4770,
+          "width" : 6567
+        },
+        "on" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f8bb4aea-19d1-4abe-8ff6-c8aa8f6bd9e7",
+      "@type" : "sc:Canvas",
+      "label" : "Le Triomphe de la mort",
+      "height" : 1517,
+      "width" : 2126,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2e7afbd5-9075-4061-bfef-8fc27a9866aa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1517,
+          "width" : 2126
+        },
+        "on" : "http://f8bb4aea-19d1-4abe-8ff6-c8aa8f6bd9e7"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
