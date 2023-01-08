@@ -1,0 +1,1557 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "the Church.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>the Church.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:50:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673207435871",
+    "dcterms:modified" : "2023-01-08T19:50:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1843,-3,720,743"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1842.50685,740.47945h360.13699v0h360.13699v-371.63014v-371.63014h-360.13699h-360.13699v371.63014z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5d82d171-470f-4bf3-b5e0-7e82ab13188d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Une procession de l&eacute;preux men&eacute;e par un sonneur.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Une procession de l&eacute;preux men&eacute;e par un sonneur.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:07:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208479503",
+    "dcterms:modified" : "2023-01-08T20:07:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=935,308,218,333"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M935.30909,308.40459h109v0h109v166.6v166.6h-109h-109v-166.6z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2a5d1790-3b2a-4a6f-8042-6a4dfc93eb86\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Another woman is doing spring cleaning and has climbed a ladder to clean the overhead light from the outside",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Another woman is doing spring cleaning and has climbed a ladder to clean the overhead light from the outside</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:18:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209121663",
+    "dcterms:modified" : "2023-01-08T20:18:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1472,304,142,216"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1471.84044,303.60738h70.91111v0h70.91111v108.00681v108.00681h-70.91111h-70.91111v-108.00681z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8db15024-aab3-48e1-beb6-f6375cecebdb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A bonfire indicating other festivities.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A bonfire indicating other festivities.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:17:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209062143",
+    "dcterms:modified" : "2023-01-08T20:17:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1077,235,216,115"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1076.62863,235.12302h108.00681v0h108.00681v57.35692v57.35692h-108.00681h-108.00681v-57.35692z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_906d9984-d721-4448-acad-b96d84b118f0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dancing indoors.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dancing indoors.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:22:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209351229",
+    "dcterms:modified" : "2023-01-08T20:22:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=393,392,141,157"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M393.3463,392.37731h70.27273v0h70.27273v78.45455v78.45455h-70.27273h-70.27273v-78.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4ef60380-6fb4-464f-876f-80c97f1829d3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chien.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Chien.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:05:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673201105401",
+    "dcterms:modified" : "2023-01-08T18:05:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2096,1174,136,105"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2096.07935,1174.36614h68.053v0h68.053v52.53147v52.53147h-68.053h-68.053v-52.53147z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d45650f2-d29c-4eb7-999d-3cb5c5f6053b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The left side is dominated by an inn, which according to its signboard is called the Blau Schuyt (Blue Barge), referencing a Middle Dutch poem popular during Lenten celebrations, in which the bourgeois world was turned upside down.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The left side is dominated by an inn, which according to its signboard is called the Blau Schuyt (Blue Barge), referencing a Middle Dutch poem popular during Lenten celebrations, in which the bourgeois world was turned upside down.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:50:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673207419492",
+    "dcterms:modified" : "2023-01-08T20:04:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,-2,516,1120"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M516.05479,-2h-258.0274v0h-258.0274v559.94521v559.94521h258.0274h258.0274v-559.94521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_3d12daea-754e-4974-89c1-7b3172888592\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "An encounter between 2 lovers.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>An encounter between 2 lovers.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:05:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208303949",
+    "dcterms:modified" : "2023-01-08T20:05:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=230,243,111,103"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M229.70909,243.14199h55.32727v0h55.32727v51.4v51.4h-55.32727h-55.32727v-51.4z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e92d210c-28a7-4b7a-9aeb-5ec7bd884cb1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Veiled statues are visible. It was customary in Roman Catholic churches to cover artwork from Passion Sunday to Easter.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Veiled statues are visible. It was customary in Roman Catholic churches to cover artwork from Passion Sunday to Easter.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:10:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208619068",
+    "dcterms:modified" : "2023-01-08T20:10:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2274,295,202,169"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2475.43302,294.7586h-100.83261v0h-100.83261v84.25504v84.25504h100.83261h100.83261v-84.25504z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_499abcca-a46a-44d8-b0c2-0a60ab5026b1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "From a side door of the church, the poorer faithful emerge: some have brought their own seating, which they carry.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>From a side door of the church, the poorer faithful emerge: some have brought their own seating, which they carry.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:11:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208679346",
+    "dcterms:modified" : "2023-01-08T20:11:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1525,368,460,283"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1524.53661,367.69277h230.12337v0h230.12337v141.36387v141.36387h-230.12337h-230.12337v-141.36387z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_17195b06-0cdc-44c1-b57b-d9e8eacca765\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Incarnation of Lent. Lent is a thin woman, seated on a hard three-legged chair, and armed with a baker's spatula called a peel, on which lie two herring. he is surrounded by pretzels fish, fasting breads, mussels and onions, all typically consumed during Lent.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Incarnation of Lent. Lent is a thin woman, seated on a hard three-legged chair, and armed with a baker's spatula called a peel, on which lie two herring. he is surrounded by pretzels fish, fasting breads, mussels and onions, all typically consumed during Lent.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:51:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673207511582",
+    "dcterms:modified" : "2023-01-08T20:02:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1183,1194,729,583"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1912.12152,1776.58047h-364.4v0h-364.4v-291.32v-291.32h364.4h364.4v291.32z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f1fd7238-b3af-4269-af97-883c62345706\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.42545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Behind the man who is missing both feet and a forearm, a woman is wearing pilgrim insignia, but in the basket on her back is a monkey, which indicates feigning.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Behind the man who is missing both feet and a forearm, a woman is wearing pilgrim insignia, but in the basket on her back is a monkey, which indicates feigning.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:15:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208921241",
+    "dcterms:modified" : "2023-01-08T20:15:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1765,1018,259,382"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1764.72286,1018.41286h129.40817v0h129.40817v190.75874v190.75874h-129.40817h-129.40817v-190.75874z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2ddf4bbd-fee3-44f0-bef3-0afcb3e3f80b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A man pushes Carnival's sled, he waves a red-gold-white flag on his head, the then typical carnival colors.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A man pushes Carnival's sled, he waves a red-gold-white flag on his head, the then typical carnival colors.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T17:57:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673200640053",
+    "dcterms:modified" : "2023-01-08T19:56:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=662,1231,260,308"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M661.70909,1231.00106h129.94545v0h129.94545v154.16364v154.16364h-129.94545h-129.94545v-154.16364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d5ebc832-c2a0-4a5b-b2a9-22154579e1ae\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Three children cheer around a fourth one perched on a barrel drinking from a pot.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Three children cheer around a fourth one perched on a barrel drinking from a pot.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:03:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673201022434",
+    "dcterms:modified" : "2023-01-08T20:24:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=764,328,185,234"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M763.81818,327.69918h92.63636v0h92.63636v117.18182v117.18182h-92.63636h-92.63636v-117.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_3a5b3403-7990-42c2-9dc7-91a49803a60d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A man and a woman pray kneeling against the wall of the church.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A man and a woman pray kneeling against the wall of the church.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:11:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208661066",
+    "dcterms:modified" : "2023-01-08T20:11:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1897,537,118,186"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1897.46415,536.95508h58.79689v0h58.79689v93.1998v93.1998h-58.79689h-58.79689v-93.1998z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ec5d15b6-7ffd-4564-a271-5161b2382234\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A musician with his bagpipes hangs out of the window to vomit.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A musician with his bagpipes hangs out of the window to vomit.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:05:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208326159",
+    "dcterms:modified" : "2023-01-08T20:05:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=100,268,163,132"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M100.10909,268.01471h81.50909v0h81.50909v65.8v65.8h-81.50909h-81.50909v-65.8z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_516f8f8e-f8bc-4bc0-b1a6-7ac319e044c6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Men carrying wine from the inn.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Men carrying wine from the inn.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:17:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209031781",
+    "dcterms:modified" : "2023-01-08T20:17:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=562,551,192,191"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M754.18145,741.62192h-96.01951v0h-96.01951v-95.30613v-95.30613h96.01951h96.01951v95.30613z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b6dbdf11-47d3-4377-b07e-75d7fc0fa1d2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kids playing.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Kids playing.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:24:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209493601",
+    "dcterms:modified" : "2023-01-08T20:24:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1569,611,536,258"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1568.61818,610.65455h268.05455v0h268.05455v129.02909v129.02909h-268.05455h-268.05455v-129.02909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_612ba4c4-5954-4ebc-a57c-899b27e3d1af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A man that has fallen asleep.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A man that has fallen asleep.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:01:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673200912282",
+    "dcterms:modified" : "2023-01-08T20:28:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=450,623,161,167"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M449.63636,623.33554h80.63636v0h80.63636v83.36364v83.36364h-80.63636h-80.63636v-83.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_039fc113-6180-493c-9f2f-a51dd5c90906\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.26941\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cripples going in circles.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cripples going in circles.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:00:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673200850469",
+    "dcterms:modified" : "2023-01-08T20:29:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=610,651,406,318"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M609.68403,651.25509h202.81818v0h202.81818v159.18182v159.18182h-202.81818h-202.81818v-159.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e500ea3c-72c8-46dc-9c3b-cf3f4797dc60\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.26941\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Carnival and Lent, are in a parody of a late medieval joust. The two opponents do not ride head-on into each other, but rather pass each other by, trying to lift each other out of the saddle. They are borne on what resemble contemporary carnival floats. Their headdress makes it clear that they are allegorical characters. Carnival wears a poultry pie with the legs of a crow sticking out. Lent wears a beehive, a common symbol for the church at the time.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Carnival and Lent, are in a parody of a late medieval joust. The two opponents do not ride head-on into each other, but rather pass each other by, trying to lift each other out of the saddle. They are borne on what resemble contemporary carnival floats. Their headdress makes it clear that they are allegorical characters. Carnival wears a poultry pie with the legs of a crow sticking out. Lent wears a beehive, a common symbol for the church at the time.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:53:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673207622721",
+    "dcterms:modified" : "2023-01-08T19:54:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=824,1126,1102,642"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M823.79909,1126.24125h550.98478v0h550.98478v320.79452v320.79452h-550.98478h-550.98478v-320.79452z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c179615b-0835-45ac-8870-aa939732c373\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.01753\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A woman wearing a table on her head, with waffles which are a culinary tradition of Mardi Gras. She holds in her hands a vase and a candle in bright daylight which codes for madness. The followers are provided with wafers and cakes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A woman wearing a table on her head, with waffles which are a culinary tradition of Mardi Gras. She holds in her hands a vase and a candle in bright daylight which codes for madness. The followers are provided with wafers and cakes.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T17:58:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673200724750",
+    "dcterms:modified" : "2023-01-08T19:58:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=431,1160,320,425"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M431.30909,1160.31015h160.05455v0h160.05455v212.41818v212.41818h-160.05455h-160.05455v-212.41818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_397c56a1-206b-4450-ac81-8fa502508daf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gambling and games.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Gambling and games.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:59:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673207956807",
+    "dcterms:modified" : "2023-01-08T19:59:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,1584,291,243"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M290.72727,1584.09091h-145.36364v0h-145.36364v121.45455v121.45455h145.36364h145.36364v-121.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a4880a8e-af57-4da5-9296-4a77b9ecf94c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A woman holding a plate filled with waffles which are a, just like cr&ecirc;pes, a culinary tradition of Mardi Gras. She has a necklace made of eggs. Eggs, just like meatwere forbidden during Lent.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A woman holding a plate filled with waffles which are a, just like cr&ecirc;pes, a culinary tradition of Mardi Gras. She has a necklace made of eggs. Eggs, just like meatwere forbidden during Lent.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:00:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673200804008",
+    "dcterms:modified" : "2023-01-08T20:00:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=87,1273,227,370"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M87.01818,1272.56364h113.58182v0h113.58182v184.92727v184.92727h-113.58182h-113.58182v-184.92727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_369e3051-2aff-4007-ae1f-976297bb71ab\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The entourage of Lent consists of children who just as Lent bear the ash cross of Ash Wednesday on their foreheads. They make noise with clappers.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The entourage of Lent consists of children who just as Lent bear the ash cross of Ash Wednesday on their foreheads. They make noise with clappers.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:03:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208220441",
+    "dcterms:modified" : "2023-01-08T20:03:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1517,1266,569,439"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1516.77818,1265.75636h284.54909v0h284.54909v219.35636v219.35636h-284.54909h-284.54909v-219.35636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1e3d0015-96c3-4f74-848d-b766de40b35b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lent is laboriously drawn by a monk and a nun.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lent is laboriously drawn by a monk and a nun.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:02:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208167752",
+    "dcterms:modified" : "2023-01-08T20:02:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1165,1360,398,406"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1164.89455,1360.01091h198.93455v0h198.93455v202.86182v202.86182h-198.93455h-198.93455v-202.86182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_33273f67-b4e8-4145-9fd4-c3d1f3eed5b0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dancing in a circle.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dancing in a circle.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:03:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673201033739",
+    "dcterms:modified" : "2023-01-08T20:23:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1121,311,227,148"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1120.54545,311.33554h113.36364v0h113.36364v74.09091v74.09091h-113.36364h-113.36364v-74.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e687c8bd-b504-471f-8884-304203f158b4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Incarnation of Carnival. Carnival is a fat butcher, with his pouch of knives, straddling a beer barrel on a blue sled. A pork chop is attached to the front of the barrel, and a cooking pot serves as a stirrup. His weapon is a rotisserie carrying the head of a suckling pig, poultry and sausages.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Incarnation of Carnival. Carnival is a fat butcher, with his pouch of knives, straddling a beer barrel on a blue sled. A pork chop is attached to the front of the barrel, and a cooking pot serves as a stirrup. His weapon is a rotisserie carrying the head of a suckling pig, poultry and sausages.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T17:56:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673200589251",
+    "dcterms:modified" : "2023-01-08T19:55:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=843,1171,430,464"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M842.544,1170.87345h214.95782v0h214.95782v231.92364v231.92364h-214.95782h-214.95782v-231.92364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_8ae5bb30-147d-494d-9956-9cde2680a07f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.72451\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Carnival's followers form a procession of figures wearing masks, bizarre headgear and household objects as props or improvised musical instruments, in a reversal of the normal order.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Carnival's followers form a procession of figures wearing masks, bizarre headgear and household objects as props or improvised musical instruments, in a reversal of the normal order.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:56:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673207800104",
+    "dcterms:modified" : "2023-01-08T19:56:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=443,1422,432,351"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M874.59055,1421.59055h-215.78545v0h-215.78545v175.37091v175.37091h215.78545h215.78545v-175.37091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3ebf671e-3d5d-4830-b348-bced04a17381\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In front of the inn, actors perform The Dirty Bride, a play in which a peasant in a drunken stupor agrees to marry, but upon sobering up discovers how his bride looks",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In front of the inn, actors perform <em>The Dirty Bride</em>, a play in which a peasant in a drunken stupor agrees to marry, but upon sobering up discovers how his bride looks</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:05:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208359843",
+    "dcterms:modified" : "2023-01-08T20:05:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,737,417,560"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M417.14182,1297.4838h-208.57091v0h-208.57091v-280.19273v-280.19273h208.57091h208.57091v280.19273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ef0d8420-f19b-49d2-878d-b7bedaeda757\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A church minister accompanies the children, carrying a bucket with a holy water brush and a bag for donations, which include dry rolls, pretzels and shoes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A church minister accompanies the children, carrying a bucket with a holy water brush and a bag for donations, which include dry rolls, pretzels and shoes.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:04:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208242705",
+    "dcterms:modified" : "2023-01-08T20:04:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2029,1307,238,393"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2028.89455,1306.6h118.81818v0h118.81818v196.57818v196.57818h-118.81818h-118.81818v-196.57818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_33132d66-b4c8-4b22-a72f-e3026b71371e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A man wearing a kettle on his head is playing a guitar.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A man wearing a kettle on his head is playing a guitar.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T17:59:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673200752571",
+    "dcterms:modified" : "2023-01-08T20:01:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=214,1257,248,417"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M214,1256.85455h124.05455v0h124.05455v208.49091v208.49091h-124.05455h-124.05455v-208.49091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ff517003-a8c2-4b1c-9171-861e45aee581\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Some women in black cloaks carry boxwood branches, a custom associated with Palm Sunday.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Some women in black cloaks carry boxwood branches, a custom associated with Palm Sunday.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:14:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208886568",
+    "dcterms:modified" : "2023-01-08T20:14:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2247,672,313,300"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2246.96688,671.7108h156.51656v0h156.51656v150.09615v150.09615h-156.51656h-156.51656v-150.09615z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7b2861b5-3152-4ce4-853c-b146d76d2f50\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The couple has taken part in the carnival event: the man is dressed up by tucking a straw bag as a hunchback under his clothes, the woman carries a non-burning lantern around the waist. A jester leads them to the left.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The couple has taken part in the carnival event: the man is dressed up by tucking a straw bag as a hunchback under his clothes, the woman carries a non-burning lantern around the waist. A jester leads them to the left.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:09:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208571370",
+    "dcterms:modified" : "2023-01-08T20:22:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=971,816,347,336"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M970.91427,816.30671h173.7026v0h173.7026v168.19814v168.19814h-173.7026h-173.7026v-168.19814z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0f3d184d-825d-4cce-b20a-71b09a1cf2fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "An annoyed man throws the recepient of a bucket out of his window.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>An annoyed man throws the recepient of a bucket out of his window.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:23:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209420763",
+    "dcterms:modified" : "2023-01-08T20:23:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=799,208,82,91"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M880.98267,298.55913h-41v0h-41v-45.36364v-45.36364h41h41v45.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_74431cd6-a425-4bfa-9057-8eced8ea4658\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The wealthy have been reminded of their obligation to charity by the Lenten sermon, so they give alms to the numerous beggars.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The wealthy have been reminded of their obligation to charity by the Lenten sermon, so they give alms to the numerous beggars.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:05:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673201155241",
+    "dcterms:modified" : "2023-01-08T20:14:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1904,902,657,821"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1903.93505,902.10979h328.65333v0h328.65333v410.29278v410.29278h-328.65333h-328.65333v-410.29278z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_17ec7ee5-67bc-438f-a55f-c1fc6b3d849d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.56054\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A wealthy man is giving alms while accompanied by a servant who carries his own folding chair.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A wealthy man is giving alms while accompanied by a servant who carries his own folding chair.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:05:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673201127571",
+    "dcterms:modified" : "2023-01-08T20:13:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1939,962,517,382"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1939.25305,962.03164h258.52738v0h258.52738v190.98349v190.98349h-258.52738h-258.52738v-190.98349z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_7a4d84a1-34ad-4b0b-9c05-e704251e20e6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.13379\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The wealthier citizens, who have been allowed to sit on a bench in the church, leave the church by the main entrance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The wealthier citizens, who have been allowed to sit on a bench in the church, leave the church by the main entrance.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:12:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208722815",
+    "dcterms:modified" : "2023-01-08T20:12:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2146,282,361,1438"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2145.94411,281.72403h180.53365v0h180.53365v719.13458v719.13458h-180.53365h-180.53365v-719.13458z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9123d787-9074-41fa-9b73-ff6e3545c3e9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "There used to be a bloated corpse in this wheeled container until an unknow hand hid it.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>There used to be a bloated corpse in this wheeled container until an unknow hand hid it.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:16:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208993137",
+    "dcterms:modified" : "2023-01-08T20:16:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1642,870,343,169"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1642.02172,870.03009h171.49751v0h171.49751v84.46531v84.46531h-171.49751h-171.49751v-84.46531z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_341afe13-5806-41d0-965c-f0f7b9dc3b43\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A woman at a stall sells votive offerings.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A woman at a stall sells votive offerings.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:10:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208650796",
+    "dcterms:modified" : "2023-01-08T20:10:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2452,564,111,229"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2452.03904,564.47741h55.3566v0h55.3566v114.5296v114.5296h-55.3566h-55.3566v-114.5296z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b53f7b94-e67c-43f8-a2ca-b7670c06b3dd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Women preparing Lenten fish.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Women preparing Lenten fish.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:16:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209009772",
+    "dcterms:modified" : "2023-01-08T20:16:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1302,784,363,256"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1302.45345,784.42464h181.48482v0h181.48482v127.98141v127.98141h-181.48482h-181.48482v-127.98141z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f3bf75b7-f408-437c-bf95-138d18770bf4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The actors playing the bride and the groom are dancing, while a masked member of the company collects money with a piggy bank.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The actors playing the bride and the groom are dancing, while a masked member of the company collects money with a piggy bank.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:06:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208378465",
+    "dcterms:modified" : "2023-01-08T20:06:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5,999,552,313"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M556.95273,999.01108h-276.12v0h-276.12v156.52v156.52h276.12h276.12v-156.52z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b81c442a-7529-4d6c-a012-daed5e857b22\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A man sits at a table with a relic that the pious can pay to touch.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A man sits at a table with a relic that the pious can pay to touch.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:10:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208635304",
+    "dcterms:modified" : "2023-01-08T20:10:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2064,582,211,188"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2063.97423,582.36692h105.58484v0h105.58484v93.88785v93.88785h-105.58484h-105.58484v-93.88785z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_847308cf-c636-433c-9fe0-183c1480cb1e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A woman bakes waffles.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A woman bakes waffles.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:06:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673208415616",
+    "dcterms:modified" : "2023-01-08T20:06:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=599,1011,424,236"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M598.68364,1010.50199h211.90909v0h211.90909v117.81818v117.81818h-211.90909h-211.90909v-117.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_38b468d3-10f5-449b-a75a-e68bea75cadc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Two young men and two young women are playing an agility game where it involves throwing up old earthenware cooking pots and catching them. That it is not easy, testifies the shards of fallen ones on the ground.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Two young men and two young women are playing an agility game where it involves throwing up old earthenware cooking pots and catching them. That it is not easy, testifies the shards of fallen ones on the ground.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:19:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209166760",
+    "dcterms:modified" : "2023-01-08T20:19:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1103,561,430,264"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1102.77419,561.11695h215.09091v0h215.09091v131.90909v131.90909h-215.09091h-215.09091v-131.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_a0320bfb-e8f6-4be5-b795-f4d49134c6b5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A well. On its right side a woman has just drawn the clear water; at her feet is a basket of fresh vegetables. The freshness of this scene stands in sharp contrast to the pig at left of the well.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A well. On its right side a woman has just drawn the clear water; at her feet is a basket of fresh vegetables. The freshness of this scene stands in sharp contrast to the pig at left of the well.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:20:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209254788",
+    "dcterms:modified" : "2023-01-08T20:20:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1118,825,539,442"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1117.86019,824.64573h269.36364v0h269.36364v220.81818v220.81818h-269.36364h-269.36364v-220.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ba20f1ee-26a9-4773-a3fe-01e87692ad29\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A bakery with wares for sale.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A bakery with wares for sale.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T20:18:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673209101966",
+    "dcterms:modified" : "2023-01-08T20:18:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1278,351,233,228"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1277.80143,578.97157h116.56735v0h116.56735v-113.85397v-113.85397h-116.56735h-116.56735v113.85397z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d1c7fb6e-371a-44cb-b373-24e911337c0f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://90006025-57ea-498b-b946-98f0dbba231c"
+    } ]
+  } ],
+  "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/CarnavalCaremeAnnotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
