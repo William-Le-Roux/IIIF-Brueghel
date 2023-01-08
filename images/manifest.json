@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 6567,
+    "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Pieter_Bruegel_the_Elder_Childrens_Games/canvas/",
+    "label" : {
+      "none" : [ "Pieter_Bruegel_the_Elder_Childrens_Games" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Pieter_Bruegel_the_Elder_Childrens_Games/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Pieter_Bruegel_the_Elder_Childrens_Games/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 206,
+              "height" : 150
+            }, {
+              "width" : 411,
+              "height" : 299
+            }, {
+              "width" : 821,
+              "height" : 597
+            }, {
+              "width" : 1642,
+              "height" : 1193
+            }, {
+              "width" : 3284,
+              "height" : 2385
+            }, {
+              "width" : 6567,
+              "height" : 4770
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 6567,
+            "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Pieter_Bruegel_the_Elder_Childrens_Games",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4770
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6567,
+          "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Pieter_Bruegel_the_Elder_Childrens_Games/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4770
+        },
+        "target" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Pieter_Bruegel_the_Elder_Childrens_Games/canvas/"
+      } ]
+    } ],
+    "height" : 4770
+  }, {
     "width" : 2560,
     "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien/canvas/",
     "label" : {
