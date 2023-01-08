@@ -1,0 +1,13 @@
+{
+  "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in William-Le-Roux/IIIF-Brueghel project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json",
+    "label" : "4 tableaux de Pieter Brueghel l'Ancien : le Combat de Carnaval et Carême, Proverbes flamands, les Jeux d'enfants et le Triomphe de la mort."
+  } ]
+}
