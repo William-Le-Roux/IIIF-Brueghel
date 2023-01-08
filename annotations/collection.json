@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/CarnavalCaremeAnnotations.json", "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/JeuxAnnotations.json", "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/ProverbesAnnotations.json" ],
+  "otherContent" : [ "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/CarnavalCaremeAnnotations.json", "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/JeuxAnnotations.json", "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/ProverbesAnnotations.json", "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/TriompheAnnotations.json" ],
   "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/collection.json",
   "label" : "All annotations loaded in William-Le-Roux/IIIF-Brueghel project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
