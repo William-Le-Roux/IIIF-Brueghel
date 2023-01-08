@@ -9,7 +9,7 @@
     "@context": "http://iiif.io/api/search/0/context.json"
 },
   "metadata" : [{
-    "label": "Nom du peintre",
+    "label": "Painter's name",
     "valeur": "Pieter Brueghel the Elder"}
   ],
   "description" : [ {
