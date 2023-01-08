@@ -1,0 +1,2778 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Knucklebones - Game of very ancient origin, played with five small objects, originally the \"knucklebones\" (actually the astragalus: a bone in the ankle, or hock) of a sheep, which are thrown up and caught in various ways; more commonly known as playing jacks.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Knucklebones - Game of very ancient origin, played with five small objects, originally the \"knucklebones\" (actually the astragalus: a bone in the ankle, or hock) of a sheep, which are thrown up and caught in various ways; more commonly known as playing jacks.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:54:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204071827",
+    "dcterms:modified" : "2023-01-08T18:54:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=65,4029,986,604"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M64.5245,4029.22791h492.93118v0h492.93118v302.1109v302.1109h-492.93118h-492.93118v-302.1109z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ffd11a23-6121-496b-a8ad-86c9864c0bb1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Still a popular pastime, Bruegel shows children blowing bubbles with clay pipes and verifies soap bubbles being used as entertainment for at least 400 year.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Still a popular pastime, Bruegel shows children blowing bubbles with clay pipes and verifies soap bubbles being used as entertainment for at least 400 year.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:52:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203954856",
+    "dcterms:modified" : "2023-01-08T18:52:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=750,3376,254,244"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M750.48782,3376.44749h127.04642v0h127.04642v122.00457v122.00457h-127.04642h-127.04642v-122.00457z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8ab34e4a-35f4-4480-9855-d2a7e2eec963\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Raisinbread man - A man-shaped loaf of bread, most likely some sort of Dutch duivekater, offered during wakes or at Christmas.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Raisinbread man - A man-shaped loaf of bread, most likely some sort of Dutch <em>duivekater</em>, offered during wakes or at Christmas.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:02:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204534759",
+    "dcterms:modified" : "2023-01-08T19:02:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5656,2376,259,433"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5655.60959,2376.46575h129.50685v0h129.50685v216.63014v216.63014h-129.50685h-129.50685v-216.63014z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aacf2070-e6ee-4ca9-a934-1b223982a3b3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Buck buck - A group of children had to create a \"pony\" and another had to leap on their backs until the weight made it crumble.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Buck buck - A group of children had to create a \"pony\" and another had to leap on their backs until the weight made it crumble.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:03:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204612643",
+    "dcterms:modified" : "2023-01-08T19:03:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5216,3714,939,947"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5215.63699,3713.80822h469.28767v0h469.28767v473.64384v473.64384h-469.28767h-469.28767v-473.64384z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_72de6fae-566b-402f-b641-7b6e212ae66b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hide-and-seek - a game in which a number of players conceal themselves in the environment, to be found by one or more seeker.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hide-and-seek - a game in which a number of players conceal themselves in the environment, to be found by one or more seeker.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:10:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205002311",
+    "dcterms:modified" : "2023-01-08T19:10:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5224,752,616,215"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5224.34932,751.61644h308.10959v0h308.10959v107.72603v107.72603h-308.10959h-308.10959v-107.72603z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d9bc56a5-d3c8-48cd-bb5e-c8705042a79d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ball made with an inflated animal bladder Inflating a bladder to create a balloon or ball.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ball made with an inflated animal bladder Inflating a bladder to create a balloon or ball.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:03:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204584804",
+    "dcterms:modified" : "2023-01-08T19:03:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4723,3897,407,725"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4723.39041,3896.76712h203.56164v0h203.56164v362.56164v362.56164h-203.56164h-203.56164v-362.56164z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a320aec9-adcb-4187-af67-8e8774befcbb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Play leapfrog - Vaulting over each other's stooped backs.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Play leapfrog - Vaulting over each other's stooped backs.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:57:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204254653",
+    "dcterms:modified" : "2023-01-08T18:57:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3403,2541,1147,667"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3403.33555,2541.17986h573.46084v0h573.46084v333.62251v333.62251h-573.46084h-573.46084v-333.62251z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e1472106-e607-4dae-aba7-1d67b055da16\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pulling hair - A game or a fight?",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pulling hair - A game or a fight?</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:05:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204719843",
+    "dcterms:modified" : "2023-01-08T19:05:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5856,2625,715,721"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5855.99315,2624.76712h357.68151v0h357.68151v360.38356v360.38356h-357.68151h-357.68151v-360.38356z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6f21cd85-ff86-4d54-99f4-6da37d1ac0e2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing the porter or goalkeeper?",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing the porter or goalkeeper?</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:07:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204864850",
+    "dcterms:modified" : "2023-01-08T19:07:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6218,874,141,168"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6217.55479,873.58904h70.69863v0h70.69863v83.76712v83.76712h-70.69863h-70.69863v-83.76712z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b215c734-fab4-4e9f-9ea0-4a442353e7e0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Floating with an inflated pig's bladder - A sheep's bladder was also used, to float on top of it or to play water games.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Floating with an inflated pig's bladder - A sheep's bladder was also used, to float on top of it or to play water games.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:16:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205401393",
+    "dcterms:modified" : "2023-01-08T19:16:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=779,1292,319,154"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1097.2216,1445.50115h-159.272v0h-159.272v-76.8464v-76.8464h159.272h159.272v76.8464z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_83c7cc5f-0e13-40b3-aa68-68fa0dbdc9a1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Run, jump on a cellar's door Noisy and unsafe.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Run, jump on a cellar's door Noisy and unsafe.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:11:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205098012",
+    "dcterms:modified" : "2023-01-08T19:11:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4745,1087,268,276"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4745.17123,1087.0411h133.86301v0h133.86301v138.21918v138.21918h-133.86301h-133.86301v-138.21918z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2967c971-e3b2-429a-820f-24a86feb38d2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Put up a show - Enacting a play.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Put up a show - Enacting a play.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:13:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205236954",
+    "dcterms:modified" : "2023-01-08T19:13:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2883,1536,721,560"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3603.85616,1535.72603h-360.56164v0h-360.56164v279.79452v279.79452h360.56164h360.56164v-279.79452z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_afde5831-4f25-4c17-b1f3-77e93a4b00c1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Climbing a tree.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Climbing a tree.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:15:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205350602",
+    "dcterms:modified" : "2023-01-08T19:15:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1473,1152,185,231"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1472.716,1152.43235h92.584v0h92.584v115.48v115.48h-92.584h-92.584v-115.48z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f027a083-9832-43ef-877b-dae5872a8fcd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shell bobbin - A flying spinneret made of nut shell.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shell bobbin - A flying spinneret made of nut shell.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:52:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203978363",
+    "dcterms:modified" : "2023-01-08T18:52:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=418,3366,335,678"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M417.72527,3366.36377h167.38128v0h167.38128v338.80441v338.80441h-167.38128h-167.38128v-338.80441z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8b3790a8-29e6-4a98-8dae-023a21b79903\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Swinging from a hanging seat",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Swinging from a hanging seat</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:48:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203682186",
+    "dcterms:modified" : "2023-01-08T18:48:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=-5,1355,352,471"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M347.13927,1354.66286h-176.09056v0h-176.09056v235.44635v235.44635h176.09056h176.09056v-235.44635z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_75fd2d4b-4b94-4d23-a7ad-08de4cd205e9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing \"Holy Mass\" - With small liturgical objects used at Mass and Liturgies.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing \"Holy Mass\" - With small liturgical objects used at Mass and Liturgies.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:46:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203569345",
+    "dcterms:modified" : "2023-01-08T19:46:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=15,2989,392,423"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M406.43151,2989.23288h-195.95548v0h-195.95548v211.54795v211.54795h195.95548h195.95548v-211.54795z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_3c6edd2f-40a8-48f6-b9b1-90e1b3f95d26\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.78082\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bowling - Players attempt to score points by rolling a ball along a flat surface, either into pins or to get close to a target ball.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bowling - Players attempt to score points by rolling a ball along a flat surface, either into pins or to get close to a target ball.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:11:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205119626",
+    "dcterms:modified" : "2023-01-08T19:11:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4558,1523,764,429"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4557.85616,1522.65753h382.16438v0h382.16438v214.45205v214.45205h-382.16438h-382.16438v-214.45205z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e1ae4eab-01b9-4593-93d4-2a41fd867be5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hobby-horse - Riding a wooden hobby horse made of a straight stick with a small horse's head",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hobby-horse - Riding a wooden hobby horse made of a straight stick with a small horse's head</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:58:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204328130",
+    "dcterms:modified" : "2023-01-08T18:58:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2089,4153,666,549"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2088.65369,4153.3832h332.79176v0h332.79176v274.53824v274.53824h-332.79176h-332.79176v-274.53824z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_da6107ae-db69-4d67-be5e-466c1c740973\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Swimming - A healthy recreational exercise, enjoying a full-body workout.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Swimming - A healthy recreational exercise, enjoying a full-body workout.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:16:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205369866",
+    "dcterms:modified" : "2023-01-08T19:16:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1127,832,309,190"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1436.0824,831.88835h-154.6928v0h-154.6928v94.8736v94.8736h154.6928h154.6928v-94.8736z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_24d228ee-7a8e-4c86-a8fb-e0c5be2aaeef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Who's got the ball? Hiding the ball and guessing who has it",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Who's got the ball? Hiding the ball and guessing who has it</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:07:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204879001",
+    "dcterms:modified" : "2023-01-08T19:07:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5956,695,346,220"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5956.18493,694.9863h173.06849v0h173.06849v109.90411v109.90411h-173.06849h-173.06849v-109.90411z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0586623a-ab64-49c6-9785-b28cd277fcb6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pole vaulting - Exercising on a horizontally fixed bar.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pole vaulting - Exercising on a horizontally fixed bar.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:13:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205196839",
+    "dcterms:modified" : "2023-01-08T19:13:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3399,1653,856,529"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3399.11644,1653.34247h427.90411v0h427.90411v264.54795v264.54795h-427.90411h-427.90411v-264.54795z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0330cfe0-4a63-45c4-8047-6d34918177bc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Toy animal with leash - A brick dog of sorts",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Toy animal with leash - A brick dog of sorts</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:53:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204039428",
+    "dcterms:modified" : "2023-01-08T18:53:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=800,3678,489,579"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M799.7953,4256.81173h244.33962v0h244.33962v-289.60703v-289.60703h-244.33962h-244.33962v289.60703z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_daa1b9f1-77b9-4513-895a-4ba8e9eb0cfb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Stirring excrement with a stick.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Stirring excrement with a stick.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:59:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204344358",
+    "dcterms:modified" : "2023-01-08T18:59:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2815,4327,387,357"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2814.712,4327.29949h193.48988v0h193.48988v178.29331v178.29331h-193.48988h-193.48988v-178.29331z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fd17709e-e7bd-40cf-b982-17b09b4a8278\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A hand game.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A hand game.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:55:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204124204",
+    "dcterms:modified" : "2023-01-08T18:55:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2235,3154,524,454"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2235.32401,3153.90553h261.84607v0h261.84607v226.83317v226.83317h-261.84607h-261.84607v-226.83317z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_489e702f-55f4-401e-a3e7-17d10c19d859\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pi&ntilde;ata - A papier-m&acirc;ch&eacute; or other type of container that is decorated, filled with toys and or candy and then broken, usually as part of a ceremony or celebration.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pi&ntilde;ata - A papier-m&acirc;ch&eacute; or other type of container that is decorated, filled with toys and or candy and then broken, usually as part of a ceremony or celebration.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:56:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204188877",
+    "dcterms:modified" : "2023-01-08T18:56:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3687,1998,706,639"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3686.94001,1998.47998h352.8796v0h352.8796v319.61735v319.61735h-352.8796h-352.8796v-319.61735z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_29b24657-faed-4a39-bd4c-1e2984427242\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "To play shop On the wooden plank below the funnel Bruegel inscribed \"BRUEGEL 1560\" Red pigment was made from scraping bricks and was most famous from Antwerp.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>To play shop On the wooden plank below the funnel Bruegel inscribed \"BRUEGEL 1560\" Red pigment was made from scraping bricks and was most famous from Antwerp.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:03:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204635387",
+    "dcterms:modified" : "2023-01-08T19:03:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6122,4067,450,677"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6121.71918,4066.65753h224.81849v0h224.81849v338.60274v338.60274h-224.81849h-224.81849v-338.60274z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cd0062f5-b0af-4235-b8ed-edb6b4838fc6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Teetotum - A forerunner of the roulette and dice games.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Teetotum - A forerunner of the roulette and dice games.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:53:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204016816",
+    "dcterms:modified" : "2023-01-08T18:53:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=480,3713,380,492"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M859.31722,4204.29239h-189.82028v0h-189.82028v-245.84091v-245.84091h189.82028h189.82028v245.84091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9610a3b6-5fcb-48d3-bc2a-4c3f0b547175\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The \"Pope's seat\" - Holding the child by gripping hand.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The \"Pope's seat\" - Holding the child by gripping hand.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:58:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204298841",
+    "dcterms:modified" : "2023-01-08T18:58:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2356,3623,678,548"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2356.44998,3623.07832h338.87444v0h338.87444v274.10058v274.10058h-338.87444h-338.87444v-274.10058z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_64ccdc1c-48fd-49b3-af71-93c25b20a784\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mock tournaments - Competitions of various kind.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mock tournaments - Competitions of various kind.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:58:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204282577",
+    "dcterms:modified" : "2023-01-08T18:58:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2840,3017,1410,685"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2839.62794,3017.35523h704.7592v0h704.7592v342.37573v342.37573h-704.7592h-704.7592v-342.37573z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a591226e-15ea-495b-9cba-9bbc137eddb0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing the flute and the drum.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing the flute and the drum.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:59:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204361849",
+    "dcterms:modified" : "2023-01-08T18:59:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2732,4115,314,465"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2731.97512,4114.54753h157.18696v0h157.18696v232.32555v232.32555h-157.18696h-157.18696v-232.32555z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e924d206-ca4c-4823-85ca-591c408951c9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Building (a well).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Building (a well).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:04:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204695022",
+    "dcterms:modified" : "2023-01-08T19:04:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5786,3300,695,368"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5786.29452,3299.9726h347.31507v0h347.31507v183.9589v183.9589h-347.31507h-347.31507v-183.9589z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5953c452-1632-44fe-b313-9cf430aa905e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Handstand.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Handstand.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:48:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203705653",
+    "dcterms:modified" : "2023-01-08T18:48:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1547,2207,340,501"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1547.10122,2206.73668h169.90221v0h169.90221v250.57192v250.57192h-169.90221h-169.90221v-250.57192z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4040c164-a06d-4285-80f2-deb5ecd13439\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Whom shall I choose? - A girl selects her \"baby\" from a group of friends under a blanket.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Whom shall I choose? - A girl selects her \"baby\" from a group of friends under a blanket.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:15:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205304936",
+    "dcterms:modified" : "2023-01-08T19:15:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1500,1482,648,455"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1500.1912,1482.13475h323.8336v0h323.8336v227.6704v227.6704h-323.8336h-323.8336v-227.6704z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2d7a9be6-d4ff-4a84-8860-2f90f75e940c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Spinning tops - Using toys that can be spun on an axis, balancing on a point.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Spinning tops - Using toys that can be spun on an axis, balancing on a point.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:14:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205261416",
+    "dcterms:modified" : "2023-01-08T19:14:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2232,1523,651,429"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2231.66438,1522.65753h325.53425v0h325.53425v214.45205v214.45205h-325.53425h-325.53425v-214.45205z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c7b2ff1b-56b9-4adf-8d7b-7f2a536c34db\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Riding a broom - A variation of hobby-horse, but with many players.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Riding a broom - A variation of hobby-horse, but with many players.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:09:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204948288",
+    "dcterms:modified" : "2023-01-08T19:09:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5629,586,220,168"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5629.4726,586.08219h109.90411v0h109.90411v83.76712v83.76712h-109.90411h-109.90411v-83.76712z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_572f310d-ea2d-4350-b9fc-6f81e8fba974\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bocce - In teams, throwing the bocce balls closest to the jack ball.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bocce - In teams, throwing the bocce balls closest to the jack ball.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:15:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205328445",
+    "dcterms:modified" : "2023-01-08T19:15:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1802,1290,236,300"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1802.4184,1289.80835h117.7696v0h117.7696v149.824v149.824h-117.7696h-117.7696v-149.824z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f51f7ff2-dac4-492d-b4d3-ea08570a19c0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The \"devil chained\" - Role play as a street game.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The \"devil chained\" - Role play as a street game.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:11:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205083202",
+    "dcterms:modified" : "2023-01-08T19:11:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5172,1141,764,473"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5172.07534,1614.13699h382.16438v0h382.16438v-236.41096v-236.41096h-382.16438h-382.16438v236.41096z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6f18508e-ce9a-4a90-b7c5-7045ac227bf1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pirouetting skirts - Swirling the girls' skirts round and round.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pirouetting skirts - Swirling the girls' skirts round and round.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:15:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205341182",
+    "dcterms:modified" : "2023-01-08T19:15:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1120,1363,510,437"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1120.1176,1363.07555h255.1456v0h255.1456v218.512v218.512h-255.1456h-255.1456v-218.512z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5ff9caf7-05f0-42fb-9c9b-21985fdfb83a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The trolleys - Baskets moving on a line.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The trolleys - Baskets moving on a line.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:14:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205272878",
+    "dcterms:modified" : "2023-01-08T19:14:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2540,740,327,332"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2539.6696,740.30435h163.5616v0h163.5616v165.8512v165.8512h-163.5616h-163.5616v-165.8512z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f96fc73b-f14a-4edf-85fb-f47134784c21\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing the scourge - Not a safe game",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing the scourge - Not a safe game</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:06:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204762196",
+    "dcterms:modified" : "2023-01-08T19:06:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5612,1662,955,695"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5612.04795,1662.05479h477.47603v0h477.47603v347.31507v347.31507h-477.47603h-477.47603v-347.31507z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2c4945d5-a889-4778-9e2b-d1b6d67c2a3e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bonfire.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bonfire.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:08:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204929092",
+    "dcterms:modified" : "2023-01-08T19:08:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5756,405,146,172"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5755.80137,577.36986h72.87671v0h72.87671v-86.12329v-86.12329h-72.87671h-72.87671v86.12329z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6258c502-daff-4557-bd7e-0ceab2274e62\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Diving - Jumping or falling into water is always fun for children.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Diving - Jumping or falling into water is always fun for children.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:16:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205384936",
+    "dcterms:modified" : "2023-01-08T19:16:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=911,1077,346,199"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1257.4936,1276.07075h-173.0096v0h-173.0096v-99.7424v-99.7424h173.0096h173.0096v99.7424z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7e6cf29a-1380-4123-bbc4-f8dd4579554f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Wearing masks - Wearing disguises for fun",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Wearing masks - Wearing disguises for fun</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:47:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203630385",
+    "dcterms:modified" : "2023-01-08T18:47:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,1757,377,288"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M377.39041,2045.39726h-188.69521v0h-188.69521v-144.20548v-144.20548h188.69521h188.69521v144.20548z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bcdb1caa-bbdd-47c2-beba-14130816df14\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing Tiddlywinks - Played with small discs called \"winks\", a pot, and a collection of squidgers. The children use a \"squidger\" (a disk) to propel a wink into flight by pressing down on a wink, thereby flicking it into the air: the objective of the game is to score points by sending one's own winks into the pot.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing Tiddlywinks - Played with small discs called \"winks\", a pot, and a collection of squidgers. The children use a \"squidger\" (a disk) to propel a wink into flight by pressing down on a wink, thereby flicking it into the air: the objective of the game is to score points by sending one's own winks into the pot.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:04:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204659097",
+    "dcterms:modified" : "2023-01-08T19:04:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5865,3474,707,486"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5864.70548,3474.21918h353.32534v0h353.32534v242.76712v242.76712h-353.32534h-353.32534v-242.76712z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2dc2a905-2819-4e1c-99ef-21d2e5d3b62f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Walking poles equipped with steps for the feet to stand on, they can be short or long like the boy right above.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Walking poles equipped with steps for the feet to stand on, they can be short or long like the boy right above.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:57:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204231198",
+    "dcterms:modified" : "2023-01-08T18:57:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4459,2172,243,485"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4702.31397,2656.72241h-121.54513v0h-121.54513v-242.33962v-242.33962h121.54513h121.54513v242.33962z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_22ef3b43-1633-4cc2-865d-efd826e37fac\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hat throwing - Throw them through a child's open legs, or see who throws farthest.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hat throwing - Throw them through a child's open legs, or see who throws farthest.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:01:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204509019",
+    "dcterms:modified" : "2023-01-08T19:01:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4689,2350,873,621"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4688.5411,2350.32877h436.61644v0h436.61644v310.28767v310.28767h-436.61644h-436.61644v-310.28767z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f808522d-1ef6-432f-bd16-44e8b520b6d7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shouting into a barell from a hole - The many uses of a barre.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shouting into a barell from a hole - The many uses of a barre.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:00:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204418271",
+    "dcterms:modified" : "2023-01-08T19:00:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3278,3637,758,671"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3278.20293,3636.54722h379.13927v0h379.13927v335.37315v335.37315h-379.13927h-379.13927v-335.37315z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_37dc8504-eb6f-4133-814c-b6347edfcc41\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Catching insects with a net - Not only butterflie.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Catching insects with a net - Not only butterflie.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:05:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204734329",
+    "dcterms:modified" : "2023-01-08T19:05:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5978,2307,586,311"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5977.96575,2306.76712h292.86301v0h292.86301v155.64384v155.64384h-292.86301h-292.86301v-155.64384z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3eeaa874-392a-4a86-8533-44da64ec1e32\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The hoop with bells - variation of rolling the hoop.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The hoop with bells - variation of rolling the hoop.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:00:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204448017",
+    "dcterms:modified" : "2023-01-08T19:00:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3852,3964,846,715"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3852.41441,3964.45405h422.90539v0h422.90539v357.25621v357.25621h-422.90539h-422.90539v-357.25621z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_10331ec2-e68d-4ae3-909d-1882921f493d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing with birds",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing with birds</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:52:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203927812",
+    "dcterms:modified" : "2023-01-08T18:52:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=866,3437,320,385"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M866.45053,3436.94977h159.81849v0h159.81849v192.59056v192.59056h-159.81849h-159.81849v-192.59056z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c1e63f1d-c78b-491c-90a6-0c23d5710cfe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing with sand - I used to this.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing with sand - I used to this.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:17:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205431285",
+    "dcterms:modified" : "2023-01-08T19:17:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=681,1881,327,268"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M680.5144,1880.52515h163.5616v0h163.5616v133.7968v133.7968h-163.5616h-163.5616v-133.7968z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_eca1ce2e-9655-4682-9741-ea6bc2929f47\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rattles - Noisy musical game.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rattles - Noisy musical game.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:18:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205517223",
+    "dcterms:modified" : "2023-01-08T19:18:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1992,1875,205,381"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1992.49305,2255.335h102.31932v0h102.31932v-190.38094v-190.38094h-102.31932h-102.31932v190.38094z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0f607dee-6bc6-4b6a-8853-af4a5f916a37\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pitch and toss - The players each take a coin and take turns tossing them towards the wall: the coin the closest to the wall wins.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pitch and toss - The players each take a coin and take turns tossing them towards the wall: the coin the closest to the wall wins.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:06:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204807030",
+    "dcterms:modified" : "2023-01-08T19:06:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6196,1128,355,233"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6195.77397,1361.47945h177.42466v0h177.42466v-116.61644v-116.61644h-177.42466h-177.42466v116.61644z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8f89ffc6-165a-469e-918b-b817762ba0f7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Making a procession - Popular among children and adults, in diverse applications.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Making a procession - Popular among children and adults, in diverse applications.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:07:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204848539",
+    "dcterms:modified" : "2023-01-08T19:07:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5878,928,372,333"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5877.77397,1261.28767h186.13699v0h186.13699v-166.71233v-166.71233h-186.13699h-186.13699v166.71233z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_218d96d5-1523-436e-a6df-3a241d35f3cc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The token - Running and handing off the baton to the next runner.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The token - Running and handing off the baton to the next runner.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:12:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205132709",
+    "dcterms:modified" : "2023-01-08T19:12:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5329,1575,695,364"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5328.89726,1574.93151h347.31507v0h347.31507v181.78082v181.78082h-347.31507h-347.31507v-181.78082z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_31476cc0-3a97-4801-92cb-b69b34c7d382\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Riding piggyback - Still going strong, riding on someone's shoulders.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Riding piggyback - Still going strong, riding on someone's shoulders.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:08:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204891901",
+    "dcterms:modified" : "2023-01-08T19:08:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5830,656,133,159"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5829.85616,655.78082h66.34247v0h66.34247v79.41096v79.41096h-66.34247h-66.34247v-79.41096z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e4bfab98-29ab-4b88-a07e-5224a8e8ede6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Singing door-to-door - Especially now at Christmas, with carols.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Singing door-to-door - Especially now at Christmas, with carols.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:08:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204917043",
+    "dcterms:modified" : "2023-01-08T19:08:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5891,451,246,263"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5890.84247,451.0411h122.9726v0h122.9726v131.68493v131.68493h-122.9726h-122.9726v-131.68493z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_70bdb8d2-a919-4f2e-9890-fdc89fe8b1a7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Twirling a hat on a stick - Clowns do that.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Twirling a hat on a stick - Clowns do that.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:07:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204828480",
+    "dcterms:modified" : "2023-01-08T19:07:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6252,1035,189,316"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6252.40411,1034.76712h94.65753v0h94.65753v157.82192v157.82192h-94.65753h-94.65753v-157.82192z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2192b95d-e533-4c36-86cf-ffc3d570621c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pushing a wall good for exercising muscles.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pushing a wall good for exercising muscles.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:09:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204966762",
+    "dcterms:modified" : "2023-01-08T19:09:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5416,595,211,172"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5416.02055,594.79452h105.54795v0h105.54795v85.94521v85.94521h-105.54795h-105.54795v-85.94521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4701726e-c9a4-4127-a36d-7324c375e9fe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "High stilts - Walking on long poles.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>High stilts - Walking on long poles.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:13:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205183217",
+    "dcterms:modified" : "2023-01-08T19:13:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4270,1305,481,873"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4270.34932,1304.84932h240.58904v0h240.58904v436.61644v436.61644h-240.58904h-240.58904v-436.61644z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_eaed48ba-3284-48c8-a503-9413631c18e7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Dethroning the king\" - Role play.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"Dethroning the king\" - Role play.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:16:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205419339",
+    "dcterms:modified" : "2023-01-08T19:16:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=813,1606,373,410"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M813.3112,1605.77315h186.4576v0h186.4576v204.7744v204.7744h-186.4576h-186.4576v-204.7744z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_89b5872e-d21c-431c-96e7-f01327d8ce17\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Somersault - Flipping and rolling forwards, backwards, or sideways.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Somersault - Flipping and rolling forwards, backwards, or sideways.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:49:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203751970",
+    "dcterms:modified" : "2023-01-08T19:45:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1915,2383,325,305"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1915.15677,2383.20167h162.33942v0h162.33942v152.25571v152.25571h-162.33942h-162.33942v-152.25571z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_5999e21a-ac5f-4233-ac23-4205b7ae5491\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.78082\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Running the gauntlet - Passing through kicking legs.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Running the gauntlet - Passing through kicking legs.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:51:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203868575",
+    "dcterms:modified" : "2023-01-08T19:45:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1917,2456,1062,679"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2978.98858,3134.43836h-530.91591v0h-530.91591v-339.32534v-339.32534h530.91591h530.91591v339.32534z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0038cd8f-04dc-4791-8f73-00a6be74bccd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.78082\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing with dolls.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing with dolls.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:47:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203654272",
+    "dcterms:modified" : "2023-01-08T19:46:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,3608,398,552"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M397.55784,3608.37291h-198.77892v0h-198.77892v275.7812v275.7812h198.77892h198.77892v-275.7812z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a536dcff-f740-47ce-a12b-c2a15c7e7da2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.78082\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fence riding - Pretending the fence is horse.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fence riding - Pretending the fence is horse.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:49:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203783832",
+    "dcterms:modified" : "2023-01-08T18:49:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2198,1970,526,466"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2197.50076,1969.76941h263.17656v0h263.17656v232.92542v232.92542h-263.17656h-263.17656v-232.92542z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1a207383-b4c0-430e-875d-a418315b3243\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The penalty of \"bumbouncing\" - Bouncing someone's buttocks on planks.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The penalty of \"bumbouncing\" - Bouncing someone's buttocks on planks.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:02:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204552855",
+    "dcterms:modified" : "2023-01-08T19:02:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4902,3108,952,743"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4901.99315,3108.30137h475.82192v0h475.82192v371.27397v371.27397h-475.82192h-475.82192v-371.27397z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_60dc3f26-78fd-417d-9060-bde7d7ceae5a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Riding the barrel - With barrel vaulting, another popular pla.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Riding the barrel - With barrel vaulting, another popular pla.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:01:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204479739",
+    "dcterms:modified" : "2023-01-08T19:01:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4177,3240,741,885"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4176.61902,4124.92469h370.31602v0h370.31602v-442.68341v-442.68341h-370.31602h-370.31602v442.68341z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d920c60f-a7fe-4670-b929-adedfe170840\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing Mumblety-peg - An old outdoor game played by children using pocketknives.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing Mumblety-peg - An old outdoor game played by children using pocketknives.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:04:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204681333",
+    "dcterms:modified" : "2023-01-08T19:04:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5904,3348,663,603"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5903.91096,3347.89041h331.54452v0h331.54452v301.57534v301.57534h-331.54452h-331.54452v-301.57534z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d842e68f-2131-44f5-b7f4-07dd1f964e8e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Playing marbles - Ancient and still going strong nowadays.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Playing marbles - Ancient and still going strong nowadays.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:06:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204783633",
+    "dcterms:modified" : "2023-01-08T19:06:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5943,1353,573,411"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5943.11644,1352.76712h286.32877v0h286.32877v205.73973v205.73973h-286.32877h-286.32877v-205.73973z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e74894e6-ce5d-44f5-ad3d-527c2893f243\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Flying a ribbon on a stick - Letting a piece of cloth fly in the wind from a stick.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Flying a ribbon on a stick - Letting a piece of cloth fly in the wind from a stick.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:14:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205290052",
+    "dcterms:modified" : "2023-01-08T19:14:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1731,695,712,419"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2443.5064,694.51235h-356.1776v0h-356.1776v209.3536v209.3536h356.1776h356.1776v-209.3536z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cc1a46e5-a43e-4329-8d33-6a65fd25ee4d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Balancing a stick on a finger - A clownish game of balance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Balancing a stick on a finger - A clownish game of balance.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:13:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205212598",
+    "dcterms:modified" : "2023-01-08T19:13:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3626,1200,359,477"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3625.63699,1200.30137h179.60274v0h179.60274v238.41096v238.41096h-179.60274h-179.60274v-238.41096z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b0b82573-08a7-4b43-acce-bebe7d7843ad\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shooting water at a bird.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shooting water at a bird.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:46:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203597992",
+    "dcterms:modified" : "2023-01-08T19:46:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=414,2604,772,409"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M413.69178,2604.43836h385.79452v0h385.79452v204.28767v204.28767h-385.79452h-385.79452v-204.28767z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a0c843d1-0942-4257-b427-1096783736a2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.78082\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Climbing a fence.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Climbing a fence.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:48:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203690488",
+    "dcterms:modified" : "2023-01-08T19:46:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=710,2121,441,209"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M710.15297,2121.02511h220.32078v0h220.32078v104.35807v104.35807h-220.32078h-220.32078v-104.35807z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_cb74b47e-4e40-4ffc-a98a-283bb2e068b5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.78082\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mock wedding - it is exactly at the diagonal centre of the panel. Perhaps an irony of the holy sacrament, or a reference to the main event that allows conception of children. Mock child weddings have been common folk tradition many places in Europe, and were often celebrated at Midsummer.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mock wedding - it is exactly at the diagonal centre of the panel. Perhaps an irony of the holy sacrament, or a reference to the main event that allows conception of children. Mock child weddings have been common folk tradition many places in Europe, and were often celebrated at Midsummer.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:50:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203822578",
+    "dcterms:modified" : "2023-01-08T18:50:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2752,2076,925,723"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2752.10502,2075.6484h462.32991v0h462.32991v361.49277v361.49277h-462.32991h-462.32991v-361.49277z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_547cdb84-ab58-46b2-8054-97489ffa8c71\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"30.25114\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Blind Man's Bluff - One player is blindfolded and then disoriented by being spun around. The other players call out to the \"blind man\" who attempts to tag them before they dodge away.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Blind Man's Bluff - One player is blindfolded and then disoriented by being spun around. The other players call out to the \"blind man\" who attempts to tag them before they dodge away.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:51:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203913106",
+    "dcterms:modified" : "2023-01-08T18:51:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1229,2928,975,829"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1229.46423,2927.72222h487.53919v0h487.53919v414.43227v414.43227h-487.53919h-487.53919v-414.43227z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1f34c4be-6570-4121-ab08-4e0303e28070\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Making hats with twigs The child in the blue tunic is wearing a hat woven from twigs.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Making hats with twigs The child in the blue tunic is wearing a hat woven from twigs.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:52:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203937215",
+    "dcterms:modified" : "2023-01-08T18:52:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=685,3291,320,456"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M684.94368,3290.73592h159.81849v0h159.81849v227.88356v227.88356h-159.81849h-159.81849v-227.88356z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_252bfdf3-749c-4358-9a84-1fbe0cadecc4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mock baptismal - Re-enacting the procession of adults carrying home a baby just baptized. The blue hood symbolises deception.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mock baptismal - Re-enacting the procession of adults carrying home a baby just baptized. The blue hood symbolises deception.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:55:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204104801",
+    "dcterms:modified" : "2023-01-08T18:55:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1075,3637,1223,797"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2298.34722,3637.08348h-611.72567v0h-611.72567v398.39636v398.39636h611.72567h611.72567v-398.39636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_925422ed-48e1-4d80-9324-bc07ebbefcd6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The simple roll hoop - twirling, rolling and throwing.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The simple roll hoop - twirling, rolling and throwing.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:59:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673204392172",
+    "dcterms:modified" : "2023-01-08T18:59:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3235,3907,632,742"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3235.15041,3906.86108h315.90668v0h315.90668v370.78318v370.78318h-315.90668h-315.90668v-370.78318z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e7c5df59-c5a1-4e0b-b0f3-f2983844ba6d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The devil's tail or \"crack the whip\" - One player, chosen as the \"head\" of the tail or whip, runs around in random directions with subsequent players holding on to the hand of the previous player. The entire \"tail\" of the whip moves in those directions but with much more force toward the end of the tail.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The devil's tail or \"crack the whip\" - One player, chosen as the \"head\" of the tail or whip, runs around in random directions with subsequent players holding on to the hand of the previous player. The entire \"tail\" of the whip moves in those directions but with much more force toward the end of the tail.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:10:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205033604",
+    "dcterms:modified" : "2023-01-08T19:10:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5107,930,773,263"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5106.73288,930.21918h386.52055v0h386.52055v131.68493v131.68493h-386.52055h-386.52055v-131.68493z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7bba32cf-473d-4293-a05e-a3eda77e0997\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Throwing walnuts - A variation of bowling or bocce, hitting an assembled cluster of nuts.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Throwing walnuts - A variation of bowling or bocce, hitting an assembled cluster of nuts.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:12:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205163713",
+    "dcterms:modified" : "2023-01-08T19:12:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4763,1880,760,385"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4762.59589,1879.86301h379.9863v0h379.9863v192.67123v192.67123h-379.9863h-379.9863v-192.67123z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ee86bd8f-e9fc-41f2-a156-77a760a7d30c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Grappling - A form of wrestling.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Grappling - A form of wrestling.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:10:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205049219",
+    "dcterms:modified" : "2023-01-08T19:10:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5020,1144,294,268"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5019.60959,1143.67123h146.93151v0h146.93151v133.86301v133.86301h-146.93151h-146.93151v-133.86301z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_07bed8a7-f67e-44ce-965f-13ec87e8d6ec\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Urinating.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Urinating.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:15:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205315606",
+    "dcterms:modified" : "2023-01-08T19:15:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2201,1358,194,153"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2200.8088,1358.49635h97.1632v0h97.1632v76.5568v76.5568h-97.1632h-97.1632v-76.5568z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b0a88416-e24a-40a4-9826-da17ded301d0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Coil tournament - A fight of knights.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Coil tournament - A fight of knights.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T19:17:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673205443123",
+    "dcterms:modified" : "2023-01-08T19:17:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1148,1848,794,373"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1147.5928,1848.47075h397.1008v0h397.1008v186.4576v186.4576h-397.1008h-397.1008v-186.4576z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_83216f78-f42f-48ee-b4e2-4a1e1658e7d7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Play the \"knot\" - Bending the body to contorted positions.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Play the \"knot\" - Bending the body to contorted positions.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118110133",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-08T18:48:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673203731032",
+    "dcterms:modified" : "2023-01-08T19:45:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1507,2666,320,289"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1506.76636,2665.54566h159.81849v0h159.81849v144.69292v144.69292h-159.81849h-159.81849v-144.69292z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2c270a55-caac-41c5-8bd2-17bb74e57add\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.78082\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
+    } ]
+  } ],
+  "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/annotations/JeuxAnnotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
