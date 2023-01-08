@@ -1,0 +1,66 @@
+{
+  "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in William-Le-Roux/IIIF-Brueghel project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2560,
+    "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien/canvas/",
+    "label" : {
+      "none" : [ "Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 80,
+              "height" : 58
+            }, {
+              "width" : 160,
+              "height" : 115
+            }, {
+              "width" : 320,
+              "height" : 229
+            }, {
+              "width" : 640,
+              "height" : 457
+            }, {
+              "width" : 1280,
+              "height" : 914
+            }, {
+              "width" : 2560,
+              "height" : 1827
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2560,
+            "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1827
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2560,
+          "id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1827
+        },
+        "target" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/Le_combat_de_Carnaval_et_de_Careme_Pieter_Brueghel_lAncien/canvas/"
+      } ]
+    } ],
+    "height" : 1827
+  } ]
+}
