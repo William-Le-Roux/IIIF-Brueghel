@@ -2,11 +2,16 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "4 tableaux de Pieter Brueghel l'Ancien : le Combat de Carnaval et Carême, Proverbes flamands, les Jeux d'enfants et le Triomphe de la mort.",
+  "label" : "Four paintings by Pieter Brueghel the Elder : The Fight Between Carnival and Lent, Netherlandish Proverbs, Children’s Games et The Triumph of Death.",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/118110133/d8f6c2fb723d42c3f72363dcaf947926/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "4 tableaux de Pieter Brueghel l'Ancien : le Combat de Carnaval et Carême, Proverbes flamands, les Jeux d'enfants et le Triomphe de la mort.",
-    "@language" : "Français"
+    "@value" : "Four paintings by Pieter Brueghel the Elder : The Fight Between Carnival and Lent, Netherlandish Proverbs, Children’s Games et The Triumph of Death.",
+    "@language" : "english"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "[Click to edit attribution]",
@@ -20,7 +25,7 @@
     "canvases" : [ {
       "@id" : "http://90006025-57ea-498b-b946-98f0dbba231c",
       "@type" : "sc:Canvas",
-      "label" : "Le Combat de Carnaval et Carême",
+      "label" : "The Fight Between Carnival and Lent",
       "height" : 1827,
       "width" : 2560,
       "images" : [ {
@@ -42,11 +47,15 @@
         },
         "on" : "http://90006025-57ea-498b-b946-98f0dbba231c"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/annotations/CarnavalCaremeAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
     }, {
       "@id" : "http://81265ff2-21a5-4944-8811-e34e8791b90f",
       "@type" : "sc:Canvas",
-      "label" : "Proverbes flamands",
+      "label" : "Netherlandish Proverbs",
       "height" : 1132,
       "width" : 1599,
       "images" : [ {
@@ -68,11 +77,15 @@
         },
         "on" : "http://81265ff2-21a5-4944-8811-e34e8791b90f"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/annotations/ProverbesAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
     }, {
       "@id" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a",
       "@type" : "sc:Canvas",
-      "label" : "Les Jeux d'enfants",
+      "label" : "Children’s Games",
       "height" : 4770,
       "width" : 6567,
       "images" : [ {
@@ -94,11 +107,15 @@
         },
         "on" : "http://1082c393-cd8f-4b34-af64-e1228b9ab19a"
       } ],
-      "related" : ""
+      "otherContent" : [ {
+        "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/annotations/JeuxAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
     }, {
       "@id" : "http://f8bb4aea-19d1-4abe-8ff6-c8aa8f6bd9e7",
       "@type" : "sc:Canvas",
-      "label" : "Le Triomphe de la mort",
+      "label" : "The Triumph of Death",
       "height" : 1517,
       "width" : 2126,
       "images" : [ {
@@ -119,6 +136,11 @@
           "width" : 2126
         },
         "on" : "http://f8bb4aea-19d1-4abe-8ff6-c8aa8f6bd9e7"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://william-le-roux.github.io/IIIF-Brueghel/annotations/TriompheAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
