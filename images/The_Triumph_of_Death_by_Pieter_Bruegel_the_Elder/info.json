@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 67,
+    "height" : 48
+  }, {
+    "width" : 133,
+    "height" : 95
+  }, {
+    "width" : 266,
+    "height" : 190
+  }, {
+    "width" : 532,
+    "height" : 380
+  }, {
+    "width" : 1063,
+    "height" : 759
+  }, {
+    "width" : 2126,
+    "height" : 1517
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2126,
+  "@id" : "https://William-Le-Roux.github.io/IIIF-Brueghel/images/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1517
+}
